@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>No Flame Arrows CE</name>
+  <author>Me</author>
+  <supportedVersions>
+    <li>1.2</li>
+  </supportedVersions>
+  <packageId>me.cepatch3</packageId>
+  <description>I tweak ce.</description>
+</ModMetaData>
